@@ -1,0 +1,7 @@
+{
+  "name": "busy_sign_shared",
+  "version": "1.0.0",
+  "description": "Shared headers for control_panel and display_panel",
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}
